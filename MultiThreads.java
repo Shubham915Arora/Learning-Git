@@ -1,3 +1,5 @@
+//qwerty vfv
+
 package threads;
 import java.lang.Thread;
 import java.util.Random;
